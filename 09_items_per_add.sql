@@ -1,0 +1,1 @@
+-- average number of items added per addToCart (1 row per user)

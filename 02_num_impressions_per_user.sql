@@ -1,0 +1,1 @@
+-- number of impressions per user (1 row per user)

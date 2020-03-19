@@ -1,0 +1,1 @@
+-- percent of users with at least 1 impression in time period StartTime to EndTime that completed a checkout (1 row per user)

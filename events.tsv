@@ -1,0 +1,13 @@
+event0  session1    user1   impression   2020-03-18T18:01:01 2020-03-18T18:01:05 exp1Treat,exp2Control,exp3Treat frompage=search&impressionid=imp1
+event1  session1    user1   addToCart   2020-03-18T18:01:03 2020-03-18T18:01:05 exp1Treat,exp2Control,exp3Treat item=item1&frompage=search&qty=1&impressionid=imp1
+event10  session1    user1   impression   2020-03-18T18:02:50 2020-03-18T18:01:05 exp1Treat,exp2Control,exp3Treat frompage=reco&impressionid=imp2
+event2  session1    user1   addToCart   2020-03-18T18:02:59 2020-03-18T18:03:02 exp1Treat,exp2Control,exp3Treat item=item2&frompage=reco&qty=5&impressionid=imp2
+event3  session1    user1   addToCart   2020-03-18T18:02:45 2020-03-18T18:03:02 exp1Treat,exp2Control,exp3Treat item=item2&frompage=reco&qty=5&impressionid=imp2
+event4  session1    user1   enterCheckout   2020-03-18T18:05:00 2020-03-18T18:05:04 exp1Treat,exp2Control,exp3Treat basketSize=11
+event5  session1    user1   completeCheckout   2020-03-18T18:10:00 2020-03-18T18:10:04 exp1Treat,exp2Control,exp3Treat shippingOption=2&totalValue=102
+event11  session2    user2   impression   2020-03-18T18:01:01 2020-03-18T18:01:05 exp1Control,exp2Treat,exp3Treat frompage=search&impressionid=imp3
+event6  session2    user2   addToCart   2020-03-18T18:01:12 2020-03-18T18:03:02 exp1Control,exp2Treat,exp3Treat item=item99&frompage=home&qty=1&impressionid=imp3
+event6  session2    user2   removeFromCart   2020-03-18T18:02:12 2020-03-18T18:03:02 exp1Control,exp2Treat,exp3Treat item=item99&qty=1
+event12  session2    user2   impression   2020-03-18T18:03:01 2020-03-18T18:01:05 exp1Control,exp2Treat,exp3Treat frompage=search&impressionid=imp5
+event6  session2    user2   addToCart   2020-03-18T18:03:12 2020-03-18T18:03:10 exp1Control,exp2Treat,exp3Treat item=item99&frompage=search&qty=2&impressionid=imp5
+event7  session2    user2   enterCheckout   2020-03-18T18:05:00 2020-03-18T18:05:04 exp1Control,exp2Treat,exp3Treat basketSize=1

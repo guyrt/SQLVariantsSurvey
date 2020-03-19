@@ -1,0 +1,2 @@
+-- percent of sessions with an AddToCart that have enterCheckout (1 row per user)
+-- percent of sessions with an AddToCart and enterCheckout that have a completeCheckout (1 row per user - do these two metrics together)

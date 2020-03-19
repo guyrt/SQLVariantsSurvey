@@ -1,0 +1,1 @@
+-- time from session start (first action in session) to checkout for completed actions
