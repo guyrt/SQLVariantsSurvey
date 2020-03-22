@@ -1,6 +1,6 @@
 This project is intended to understand how Data Scientists compute a range of common metrics in a production context.
 
-There are XXX prompts, all of which use the same data set. The data is described below, and a sample can be found in XXX. 
+There are 10 prompts, all of which use the same data set. The data is described below, and a sample can be found in this folder. 
 
 To contribute
 -------------
